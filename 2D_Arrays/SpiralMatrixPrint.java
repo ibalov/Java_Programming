@@ -1,5 +1,4 @@
 /**
-*
 Escribe un programa en Java que imprima los elementos de una matriz de enteros en orden espiral. 
 La matriz debe ser cuadrada y el orden de impresión debe comenzar desde la esquina superior izquierda, 
 avanzando hacia la derecha, hacia abajo, hacia la izquierda y hacia arriba, 
