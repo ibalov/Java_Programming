@@ -10,7 +10,7 @@ public class main {
         Scanner sc = new Scanner(System.in);
         int option;
         
-        System.out.println("Choose method:");
+        System.out.println("Choose method");
         System.out.println("1. BruteForce (bucle for)");
         System.out.println("2. Two pass Hash Map");
         System.out.println("3. One pass HashTable");
