@@ -60,7 +60,7 @@ public class main {
                 }
             }
         }
-        System.out.println("No solution");
+        System.out.println("No solution!");
         return new int[]{};//
     }
 }
