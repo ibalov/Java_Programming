@@ -30,7 +30,7 @@ public class SpiralMatrixPrint {
                     System.out.print(matrix[endRow][i] + " ");
                 }
             }
-            // Imprimir la columna izquierda de abajo hacia arriba, si hay columnas restantes
+            //   Imprimir la columna izquierda de abajo hacia arriba, si hay columnas restantes
             if (startCol < endCol) { // Verificar que haya columnas restantes
                 for (int i = endRow - 1; i > startRow; i--) { // endRow - 1 para evitar repetir el primer elemento
                     System.out.print(matrix[i][startCol] + " ");
