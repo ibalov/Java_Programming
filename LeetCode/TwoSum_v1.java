@@ -26,7 +26,6 @@ public class main {
                 size = sc.nextInt();
             
                 array = new int[size];
-
                 
                 // Rellenar el array
                 System.out.print("Enter " + size + " numbers:");
