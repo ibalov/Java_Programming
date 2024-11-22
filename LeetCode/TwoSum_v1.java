@@ -41,6 +41,7 @@ public class main {
                 // Llamar al método twoSum
                 twoSum(array, target);
                 break;
+                
 
             default:
                 throw new AssertionError();
