@@ -34,6 +34,8 @@ public class main {
                     array[i] = sc.nextInt();
                 }
 
+                
+
                 // Capturar el target
                 System.out.print("Enter target: ");
                 target = sc.nextInt();
