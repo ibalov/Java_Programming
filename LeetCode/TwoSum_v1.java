@@ -24,7 +24,7 @@ public class main {
                 // Capturar el tamaño del array
                 System.out.print("Size array: ");
                 size = sc.nextInt();
-            
+                
                 array = new int[size];
                 
                 // Rellenar el array
