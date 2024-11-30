@@ -8,7 +8,7 @@ y repitiendo este patrón hasta que se hayan impreso todos los elementos.
 public class SpiralMatrixPrint {
     // Método para imprimir la matriz en orden espiral
     public static void spiralMatrixPrint(int matrix[][]) {
-        // Inicializar los índices de las filas y columnas
+        // Inicializar  los índices de las filas y columnas
         int startRow = 0; // Fila inicial
         int startCol = 0; // Columna inicial
         int endRow = matrix.length - 1; // Fila final
