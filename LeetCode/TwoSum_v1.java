@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class main {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scan ner(System.in);
         int option;
         
         System.out.println("Choose method");
