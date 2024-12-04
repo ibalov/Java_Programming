@@ -14,7 +14,7 @@ public class main {
         System.out.println("1 - BruteForce (bucle for)");
         System.out.println("2 - Two pass Has Map");
         System.out.println("3 - One pass HashTable");
-        option = sc.nextInt();
+        option = sc.nextInt(); 
         
         switch (option) {
             case 1:
